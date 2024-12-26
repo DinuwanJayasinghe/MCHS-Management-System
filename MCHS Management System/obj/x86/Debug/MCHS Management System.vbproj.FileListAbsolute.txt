@@ -1,0 +1,48 @@
+C:\Dinuwan\Important Project\MCHS Management System\MCHS Management System\bin\Debug\MCHS Management System.exe
+C:\Dinuwan\Important Project\MCHS Management System\MCHS Management System\bin\Debug\MCHS Management System.pdb
+C:\Dinuwan\Important Project\MCHS Management System\MCHS Management System\bin\Debug\MCHS Management System.xml
+C:\Dinuwan\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\WindowsApplication1.F1.resources
+C:\Dinuwan\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\WindowsApplication1.F2.resources
+C:\Dinuwan\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\WindowsApplication1.F3.resources
+C:\Dinuwan\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Dinuwan\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\MCHS Management System.vbproj.GenerateResource.Cache
+C:\Dinuwan\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\MCHS Management System.exe
+C:\Dinuwan\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\MCHS Management System.xml
+C:\Dinuwan\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\MCHS Management System.pdb
+C:\Dinuwan\Important Project\MCHS Management System\MCHS Management System\bin\Debug\MCHS Management System.exe.config
+C:\Dinuwan\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\WindowsApplication1.F4.resources
+C:\Dinuwan\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\WindowsApplication1.F5.resources
+C:\Dinuwan\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\WindowsApplication1.F6.resources
+C:\Dinuwan\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\WindowsApplication1.F7.resources
+C:\Dinuwan\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\WindowsApplication1.F8.resources
+C:\Dinuwan\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\WindowsApplication1.F9.resources
+C:\Dinuwan\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\WindowsApplication1.F10.resources
+C:\Dinuwan\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\WindowsApplication1.F11.resources
+C:\Dinuwan\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\WindowsApplication1.F12.resources
+C:\Dinuwan\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\WindowsApplication1.F13.resources
+F:\New\Important Project\MCHS Management System\MCHS Management System\bin\Debug\MCHS Management System.exe.config
+F:\New\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\MCHS Management System.exe
+F:\New\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\MCHS Management System.xml
+F:\New\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\MCHS Management System.pdb
+E:\Important Project\MCHS Management System\MCHS Management System\bin\Debug\MCHS Management System.exe.config
+E:\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\MCHS Management System.exe
+E:\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\MCHS Management System.xml
+E:\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\MCHS Management System.pdb
+E:\Important Project\MCHS Management System\MCHS Management System\bin\Debug\MCHS Management System.exe
+E:\Important Project\MCHS Management System\MCHS Management System\bin\Debug\MCHS Management System.pdb
+E:\Important Project\MCHS Management System\MCHS Management System\bin\Debug\MCHS Management System.xml
+E:\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\WindowsApplication1.F10.resources
+E:\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\WindowsApplication1.F13.resources
+E:\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\WindowsApplication1.F1.resources
+E:\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\WindowsApplication1.F2.resources
+E:\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\WindowsApplication1.F3.resources
+E:\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\WindowsApplication1.F4.resources
+E:\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\WindowsApplication1.F5.resources
+E:\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\WindowsApplication1.F6.resources
+E:\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\WindowsApplication1.F7.resources
+E:\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\WindowsApplication1.F8.resources
+E:\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\WindowsApplication1.F9.resources
+E:\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\WindowsApplication1.F11.resources
+E:\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\WindowsApplication1.F12.resources
+E:\Important Project\MCHS Management System\MCHS Management System\obj\x86\Debug\MCHS Management System.vbproj.GenerateResource.Cache
